@@ -1,1 +1,1 @@
-# san-francisco-bay-area-covid-vaccine-data
+# San Francisco Bay Area Covid Vaccine Data
